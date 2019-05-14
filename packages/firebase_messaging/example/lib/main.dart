@@ -5,7 +5,7 @@
 import 'dart:async';
 
 import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 final Map<String, Item> _items = <String, Item>{};
 Item _itemForMessage(Map<String, dynamic> message) {

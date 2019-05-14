@@ -3,9 +3,9 @@
 // found in the LICENSE file.
 
 import 'dart:async';
-import 'dart:ui';
+import 'package:flutter_ui/ui.dart';
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:meta/meta.dart' show visibleForTesting;
 
 /// Plugin for summoning a platform share sheet.

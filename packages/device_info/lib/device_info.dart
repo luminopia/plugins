@@ -4,7 +4,7 @@
 
 import 'dart:async';
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 
 /// Provides device and operating system information.
 class DeviceInfoPlugin {

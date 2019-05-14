@@ -7,7 +7,7 @@ import 'dart:io';
 import 'app_store_connection.dart';
 import 'google_play_connection.dart';
 import 'product_details.dart';
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/foundation.dart';
 import 'package:in_app_purchase/billing_client_wrappers.dart';
 import './purchase_details.dart';
 

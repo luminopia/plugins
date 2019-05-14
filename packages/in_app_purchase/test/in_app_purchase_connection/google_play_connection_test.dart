@@ -4,11 +4,11 @@
 
 import 'dart:async';
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:in_app_purchase/src/in_app_purchase/purchase_details.dart';
 import 'package:test/test.dart';
 
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 import 'package:in_app_purchase/billing_client_wrappers.dart';
 import 'package:in_app_purchase/src/billing_client_wrappers/enum_converters.dart';
 import 'package:in_app_purchase/src/in_app_purchase/google_play_connection.dart';

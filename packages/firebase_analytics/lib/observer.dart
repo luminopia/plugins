@@ -2,9 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:meta/meta.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 import 'firebase_analytics.dart';
 

@@ -3,10 +3,10 @@
 // found in the LICENSE file.
 
 import 'dart:typed_data';
-import 'dart:ui';
+import 'package:flutter_ui/ui.dart';
 
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

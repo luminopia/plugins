@@ -5,7 +5,7 @@
 import 'dart:async';
 
 import 'package:android_alarm_manager/android_alarm_manager.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 void printMessage(String msg) => print('[${DateTime.now()}] $msg');
 

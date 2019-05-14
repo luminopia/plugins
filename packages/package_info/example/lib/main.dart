@@ -4,7 +4,7 @@
 
 import 'dart:async';
 
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:package_info/package_info.dart';
 
 void main() {

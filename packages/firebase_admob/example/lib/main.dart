@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:firebase_admob/firebase_admob.dart';
 
 // You can also test with your own ad unit IDs by registering your device as a

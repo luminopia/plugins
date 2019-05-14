@@ -5,7 +5,7 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:meta/meta.dart';
 
 import 'auth_strings.dart';

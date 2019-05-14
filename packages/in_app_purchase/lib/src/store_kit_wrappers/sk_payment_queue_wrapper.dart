@@ -4,10 +4,10 @@
 
 import 'dart:async';
 import 'package:collection/collection.dart';
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/foundation.dart';
 import 'package:in_app_purchase/src/channel.dart';
 import 'package:json_annotation/json_annotation.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'sk_payment_transaction_wrappers.dart';
 import 'sk_product_wrapper.dart';
 

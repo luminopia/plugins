@@ -5,9 +5,9 @@
 import 'dart:async';
 import 'dart:typed_data';
 
-import 'package:flutter/foundation.dart';
-import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/services.dart';
+import 'package:flutter_web/widgets.dart';
 
 part 'camera_image.dart';
 

@@ -3,9 +3,9 @@
 // BSD-style license that can be found in the LICENSE file.
 
 import 'dart:async';
-import 'dart:ui' show hashValues;
+import 'package:flutter_ui/ui.dart' show hashValues;
 
-import 'package:flutter/services.dart' show MethodChannel, PlatformException;
+import 'package:flutter_web/services.dart' show MethodChannel, PlatformException;
 import 'package:meta/meta.dart' show visibleForTesting;
 
 import 'src/common.dart';

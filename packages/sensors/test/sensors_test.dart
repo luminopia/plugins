@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:typed_data';
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:sensors/sensors.dart';
 import 'package:test/test.dart';
 

@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'dart:async';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:in_app_purchase/src/channel.dart';
 import 'sk_product_wrapper.dart';
 

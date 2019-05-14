@@ -4,7 +4,7 @@
 
 import 'dart:async';
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:meta/meta.dart' show visibleForTesting;
 
 /// Indicates the current battery state.

@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:android_intent/android_intent.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:platform/platform.dart';
 
 void main() {

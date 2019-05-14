@@ -5,7 +5,7 @@
 import 'dart:async';
 
 import 'package:http/http.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 import 'package:firebase_performance/firebase_performance.dart';
 

@@ -6,7 +6,7 @@ library cloud_functions;
 
 import 'dart:async';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:meta/meta.dart';
 
 part 'src/cloud_functions.dart';

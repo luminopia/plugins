@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/foundation.dart';
 import 'package:in_app_purchase/src/billing_client_wrappers/purchase_wrapper.dart';
 import 'package:in_app_purchase/src/store_kit_wrappers/sk_payment_transaction_wrappers.dart';
 import './product_details.dart';

@@ -3,7 +3,7 @@
 // found in the LICENSE file
 
 import 'dart:isolate';
-import 'dart:ui';
+import 'package:flutter_ui/ui.dart';
 import 'package:location_background_plugin/location_background_plugin.dart';
 
 const String kLocationPluginPortName = 'location_plugin_port';

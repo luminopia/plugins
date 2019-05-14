@@ -5,8 +5,8 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:flutter/foundation.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/services.dart';
 
 const String kTypeImage = 'image';
 const String kTypeVideo = 'video';

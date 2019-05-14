@@ -5,7 +5,7 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 
 const MethodChannel _channel =
     MethodChannel('plugins.flutter.io/path_provider');

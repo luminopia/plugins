@@ -4,8 +4,8 @@
 
 import 'dart:async';
 
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/material.dart';
+import 'package:flutter_web/services.dart';
 import 'package:connectivity/connectivity.dart';
 
 void main() {

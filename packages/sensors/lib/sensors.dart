@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 
 const EventChannel _accelerometerEventChannel =
     EventChannel('plugins.flutter.io/sensors/accelerometer');

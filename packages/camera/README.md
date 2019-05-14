@@ -45,7 +45,7 @@ Here is a small example flutter app displaying a full screen camera preview.
 
 ```dart
 import 'dart:async';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:camera/camera.dart';
 
 List<CameraDescription> cameras;

@@ -6,7 +6,7 @@
 import 'dart:async';
 import 'dart:io' show Platform;
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:meta/meta.dart';
 
 /// [MobileAd] status changes reported to [MobileAdListener]s.

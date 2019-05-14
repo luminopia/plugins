@@ -2,7 +2,7 @@
 // for details. All rights reserved. Use of this source code is governed by a
 // BSD-style license that can be found in the LICENSE file.
 
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:cloud_functions/cloud_functions.dart';
 
 void main() => runApp(MyApp());

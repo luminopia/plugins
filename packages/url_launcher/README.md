@@ -10,7 +10,7 @@ To use this plugin, add `url_launcher` as a [dependency in your pubspec.yaml fil
 ### Example
 
 ``` dart
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 void main() {

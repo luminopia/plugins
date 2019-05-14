@@ -3,9 +3,9 @@
 // found in the LICENSE file
 
 import 'dart:isolate';
-import 'dart:ui' hide TextStyle;
+import 'package:flutter_ui/ui.dart' hide TextStyle;
 
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:location_background_plugin/location_background_plugin.dart';
 
 import 'background.dart';

@@ -3,8 +3,8 @@
 // found in the LICENSE file.
 
 import 'dart:async';
-import 'package:flutter/services.dart';
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/services.dart';
+import 'package:flutter_web/foundation.dart';
 import 'package:json_annotation/json_annotation.dart';
 import '../channel.dart';
 import 'purchase_wrapper.dart';

@@ -4,7 +4,7 @@
 
 import 'dart:collection';
 
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/foundation.dart';
 
 import '../firebase_database.dart'
     show DatabaseError, DataSnapshot, Event, Query;

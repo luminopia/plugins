@@ -13,7 +13,7 @@ To use this plugin, add `shared_preferences` as a [dependency in your pubspec.ya
 ### Example
 
 ``` dart
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {

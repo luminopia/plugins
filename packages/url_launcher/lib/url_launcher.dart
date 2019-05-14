@@ -4,9 +4,9 @@
 
 import 'dart:async';
 
-import 'package:flutter/foundation.dart';
-import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/services.dart';
+import 'package:flutter_web/widgets.dart';
 
 const MethodChannel _channel = MethodChannel('plugins.flutter.io/url_launcher');
 

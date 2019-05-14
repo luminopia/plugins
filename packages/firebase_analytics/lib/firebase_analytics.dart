@@ -4,8 +4,8 @@
 
 import 'dart:async';
 
-import 'package:flutter/foundation.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/services.dart';
 import 'package:meta/meta.dart';
 
 /// Firebase Analytics API.

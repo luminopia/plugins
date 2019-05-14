@@ -4,7 +4,7 @@
 
 import 'dart:async';
 
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:mockito/mockito.dart';
 import 'package:platform/platform.dart';

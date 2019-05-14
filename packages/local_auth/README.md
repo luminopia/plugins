@@ -98,7 +98,7 @@ OtherOperatingSystem. They are wrapped in LocalAuthenticationError class. You ca
 catch the exception and handle them by different types. For example:
 
 ```dart
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:local_auth/error_codes.dart' as auth_error;
 
 try {

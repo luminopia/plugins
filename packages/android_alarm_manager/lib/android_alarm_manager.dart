@@ -4,10 +4,10 @@
 
 import 'dart:async';
 import 'dart:io';
-import 'dart:ui';
+import 'package:flutter_ui/ui.dart';
 
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/material.dart';
+import 'package:flutter_web/services.dart';
 
 const String _backgroundName =
     'plugins.flutter.io/android_alarm_manager_background';

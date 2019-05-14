@@ -2,10 +2,10 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-import 'dart:ui' as ui;
+import 'package:flutter_ui/ui.dart' as ui;
 
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 enum Detector { barcode, face, label, cloudLabel, text }
 

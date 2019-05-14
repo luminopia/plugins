@@ -52,7 +52,7 @@ The Flutter project template adds it, so it may already be there.
 
 ```dart
 import 'package:video_player/video_player.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 void main() => runApp(VideoApp());
 

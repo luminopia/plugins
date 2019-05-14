@@ -4,7 +4,7 @@
 
 import 'package:cloud_functions/cloud_functions.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

@@ -1,4 +1,4 @@
-import 'package:flutter/services.dart';
+import 'package:flutter_web/services.dart';
 import 'package:connectivity/connectivity.dart';
 import 'package:flutter_test/flutter_test.dart';
 
